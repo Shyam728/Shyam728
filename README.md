@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shyam728 
 - 👀 I’m interested in working on projects
 - 🌱 I’m currently learning Front-end web development
-- 💞️ I’m looking to collaborate on Web dEvloping
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me s7hyam28@gmail.com
 
 <!---
